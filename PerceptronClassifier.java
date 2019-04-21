@@ -15,7 +15,7 @@ public class PerceptronClassifier extends LinearClassifier {
 	public void update(double[] x, double y, double alpha) {
 		// This must be implemented by you
 	}
-	
+
 	/**
 	 * A PerceptronClassifier uses a hard 0/1 threshold.
 	 */
